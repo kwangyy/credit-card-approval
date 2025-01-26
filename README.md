@@ -1,4 +1,4 @@
-# it1244-project
+# Credit Card Approval
  Project for NUS IT1244 by Team 8 - Chia Kwang Yang, Lee Weng Heng Jon,  Lim Zhiyong, Qiu Zihao 
 
 # How to run the project:
